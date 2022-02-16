@@ -1,0 +1,23 @@
+﻿body {
+}
+
+p {
+    color: red;
+    font-size: 20px;
+}
+
+#answer {
+    color: black;
+}
+
+label {
+    font-size: 20px;
+}
+
+input{
+    width: 25%;
+}
+
+#reset {
+    width: auto;
+}

@@ -1,0 +1,10 @@
+﻿body { 
+    background-color: lightslategray;
+}
+#pageTitle{
+    text-align: center;
+}
+#menu {
+   background-color: lightblue;
+   height: 50px;
+}
